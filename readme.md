@@ -19,6 +19,7 @@ https://codesandbox.io/s/demo-react-hooks-outside-k8vh9
 
 Add \<ReactHooksWrapper /> component to App.js file and declare some hooks
 
+```javascript
 	import { ReactHooksWrapper, setHook } from 'react-hook-outside';
 	import React from 'react';
     //
@@ -41,7 +42,7 @@ Add \<ReactHooksWrapper /> component to App.js file and declare some hooks
 	}
 
 	render(<App />, document.getElementById('root'));
-
+```
 
    Then you can call the hook from any place you want
       
