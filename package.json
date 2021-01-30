@@ -1,6 +1,6 @@
 {
   "name": "react-hooks-outside",
-  "version": "1.0.11",
+  "version": "1.0.0",
   "description": "Call react hooks from outside of the components",
   "author": {
     "name": "Samir El Khaouti",
